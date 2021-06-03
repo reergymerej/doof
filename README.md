@@ -1,4 +1,4 @@
-This is a companion to an article on finding and replacing content.
+This is a companion to an [article on finding and replacing content](https://reergymerej.github.io/blog/2021/06/03/redactor.html).
 
 ## TL;DR
 
